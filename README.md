@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Homework 1: Enron email command-line wrangling 
 ### CS186, UC Berkeley, Fall 2012
 ### Points: [5% of your final grade](https://sites.google.com/a/cs.berkeley.edu/cs186-fa2012/additional-course-information)
@@ -149,3 +150,7 @@ Your turnin session should look something like this:
 	
 ## Acknowledgements
 Much thanks to Professor Hellerstein for putting this assignment together
+=======
+parsing
+=======
+>>>>>>> 488feccda30a63df56cf5f27e74cbfd7f5188a48
